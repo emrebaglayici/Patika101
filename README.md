@@ -1,2 +1,2 @@
 ### Patika
-[Patika Dev Linli](https://app.patika.dev/emrebaglayici)
+[Patika Dev Linki ](https://app.patika.dev/emrebaglayici)
