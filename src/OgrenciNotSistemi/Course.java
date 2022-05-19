@@ -5,6 +5,9 @@ public class Course {
     String code;
     String prefix;
     int grade;
+    double verbalNoteMat=0.20;
+    double verbalNoteFzk=0.20;
+    double verbalNoteKim=0.20;
     Teacher teacher;
 
     Course(String name,String code,String prefix){
