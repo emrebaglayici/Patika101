@@ -10,4 +10,4 @@ Best Case Time Complexity: O(n*log n)
 
 Worst Case Time Complexity: O(n*log n)
 
-Average Time Complexity: O(n*log n)
+Average Time Complexity: O(n*log n) 
