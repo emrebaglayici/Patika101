@@ -1,6 +1,4 @@
 package MineSweeper;
-
-import java.util.Arrays;
 import java.util.Objects;
 import java.util.Random;
 import java.util.Scanner;
@@ -22,17 +20,6 @@ public class MineSweeper {
         random = new Random();
         mineCount = ((row * col) / 4);
     }
-
-    void printArr() {
-        for (int i = 0; i < map.length; i++) {
-            for (int j = 0; j < map[i].length; j++) {
-                System.out.print("- ");
-            }
-            System.out.println();
-        }
-        System.out.println(Arrays.toString(mineIndex));
-    }
-
     void createMap() {
         while (mineCount > 0) {
             int randomRow = random.nextInt(row);
