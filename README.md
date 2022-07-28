@@ -1,2 +1,2 @@
-### Patika
-[Patika Dev Linki ](https://app.patika.dev/emrebaglayici)
+### Patika 101 Lessons
+## It make me to remember old Java101 basic concepts and write codes fastly.
